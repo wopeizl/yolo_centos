@@ -1,0 +1,3 @@
+/data1/zhangyuanpeng/workspace/online_serving/SDK/deep_server/3rd/auto_yolo/build/src/CMakeFiles/darknet.dir
+/data1/zhangyuanpeng/workspace/online_serving/SDK/deep_server/3rd/auto_yolo/build/api/CMakeFiles/detector.dir
+/data1/zhangyuanpeng/workspace/online_serving/SDK/deep_server/3rd/auto_yolo/build/src/CMakeFiles/dnl.dir
